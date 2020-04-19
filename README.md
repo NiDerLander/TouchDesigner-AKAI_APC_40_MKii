@@ -17,11 +17,17 @@ All buttons, sliders and knobs are mapped, except [A|B] track buttons (they have
 How to use:
 
 Import the .tox into : /local/midi/userdevices
+
 Open the MIDI Device Mapper
+
 Create a new mapping
+
 In the MIDI Map dropdown, select AKAI APC 40 MKii
+
 Select the device mode in /local/midi/userdevices/AKAI_APC_40_MK2/Setup
-The CHOP channels are named :
+
+The CHOP channels are named:
+
 {type}{channel}_{index}_{name}
 
 Example:
