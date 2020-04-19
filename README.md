@@ -23,6 +23,9 @@ Example :
 Button : b2_61_device_control_prev
 Slider/Faders : s1_49_track_control
 
+Note:
+[Track Select] buttons do not sends dedicated CC in "User" mode. Instead, thay send values of eight device control knobs for corresponding track. In "Ableton Live" and "Alternate Ableton Live" modes they sends own CCs, and do not send values of device control knobs. 
+
 To do
 Not sure yet, maybe will expand functionality later
 
