@@ -12,7 +12,7 @@ Set the device mode (Generic, Ableton or Alternate Ableton)
 
 See the Communications Protocol Documentation page 10
 
-All buttons, sliders and knobs are mapped, except [A|B] track buttons (they have three states, sot not sure how to do them yet)
+All buttons, sliders and knobs are mapped, except [A|B] track buttons (they have three states, so not sure how to do them yet)
 
 How to use:
 
